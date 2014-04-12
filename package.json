@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-kafka",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Kafka connector for loopback-datasource-juggler",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "kafka-node": "~0.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:haio/loopback-connector-kafka.git"
   }
 }
