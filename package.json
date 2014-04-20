@@ -11,6 +11,9 @@
   "dependencies": {
     "kafka-node": "~0.1.7"
   },
+  "peerDependencies": {
+      "loopback": "1.x >=1.7.0"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:haio/loopback-connector-kafka.git"
