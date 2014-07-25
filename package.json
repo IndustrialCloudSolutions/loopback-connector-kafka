@@ -4,12 +4,12 @@
   "description": "Kafka connector for loopback-datasource-juggler",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/kafka.test.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "kafka-node": "~0.1.7"
+    "kafka-node": "~0.2.1"
   },
   "repository": {
     "type": "git",
