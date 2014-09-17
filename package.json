@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-kafka",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Kafka connector for loopback-datasource-juggler",
   "main": "index.js",
   "scripts": {
