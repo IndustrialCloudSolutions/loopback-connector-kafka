@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "kafka-node": "~0.2.1"
+    "kafka-node": "^4.1.3"
   },
   "repository": {
     "type": "git",
